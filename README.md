@@ -1,5 +1,5 @@
-# 👁️ eye_color_detector
-A Python-based project that detects and classifies eye colors from images using OpenCV and image processing techniques. This tool analyzes the dominant color in the eye region and classifies it into categories such as Blue, Green, Brown, Amber, or Gray.
+# 👁️ eye color detector
+A Python-based project that detects and classifies  eye colors 👁️ from images using OpenCV and image processing techniques. This tool analyzes the dominant color in the eye region and classifies it into categories such as Blue, Green, Brown, Amber, or Gray.
 
 # Features
 - Detects faces and eyes in an image using Haar cascades.
